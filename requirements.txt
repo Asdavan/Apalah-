@@ -1,0 +1,6 @@
+scikit-learn  # Untuk model machine learning
+pandas        # Pengolahan data
+numpy         # Operasi numerik
+tldextract    # Parsing domain
+python-whois  # Cek usia domain
+requests      # HTTP requests (opsional)
