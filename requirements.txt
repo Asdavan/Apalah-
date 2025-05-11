@@ -1,6 +1,9 @@
-scikit-learn  # Untuk model machine learning
-pandas        # Pengolahan data
-numpy         # Operasi numerik
-tldextract    # Parsing domain
-python-whois  # Cek usia domain
-requests      # HTTP requests (opsional)
+scikit-learn==1.2.2
+pandas==2.0.3
+numpy==1.24.3
+tldextract==3.4.1
+python-whois==0.9.3
+requests==2.31.0
+urllib3==1.26.16
+joblib==1.3.2  # Diperlukan scikit-learn
+threadpoolctl==3.2.0  # Diperlukan scikit-learn
